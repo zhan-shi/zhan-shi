@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I am an Applied Microeconomist / Postdoc @ University of Kent. 
+
+- LinkedIn: https://www.linkedin.com/in/zhanshiecon/
+- Website: https://zhan-shi.github.io/
 <!--
 **zhan-shi/zhan-shi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
