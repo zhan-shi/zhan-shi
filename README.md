@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am an Applied Microeconomist / Postdoc @ University of Sheffield. 
+I am an Applied Microeconomist / Research Associate @ University of Sheffield. 
 
 - LinkedIn: https://www.linkedin.com/in/zhanshiecon/
 - Website: https://zhan-shi.github.io/
